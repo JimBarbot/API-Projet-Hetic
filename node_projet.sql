@@ -49,7 +49,6 @@ CREATE TABLE `devis` (
 
 CREATE TABLE `facture` (
   `id` int(11) NOT NULL,
-  `formulaire` text NOT NULL,
   `prenom` text NOT NULL,
   `nom` text NOT NULL,
   `adresse` text NOT NULL,
